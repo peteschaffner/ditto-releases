@@ -1,7 +1,5 @@
-# Ditto releases
+# Ditto
 
-Official downloads for Ditto, a free push-to-talk dictation app for macOS 26 and later.
+Public downloads and release notes for [Ditto](https://peteschaffner.com/ditto/), a free push-to-talk dictation app for Mac.
 
-Visit [the Ditto website](https://peteschaffner.com/ditto/) or download the latest version from [Releases](https://github.com/peteschaffner/ditto-releases/releases/latest).
-
-This repository hosts release downloads only; it does not contain the application source code.
+[Download Ditto](https://github.com/peteschaffner/ditto-releases/releases/latest/download/Ditto.dmg)
